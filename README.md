@@ -49,14 +49,6 @@ npm start
 
 Aplikasi berjalan di `http://localhost:3000`.
 
-### Akun Admin Default
-
-| Username | Password |
-| -------- | -------- |
-| admin    | admin123 |
-
-> Ganti password default sebelum digunakan di lingkungan produksi.
-
 ## Variabel Environment
 
 ### Frontend
